@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\Android_Projects\FirstTask\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="G:\Android_Projects\FirstTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_d67fff66c9d2fd2a83d76957af7b7d867d0526da\classes.dex" />
+    </item>
+    <item
+        jar="G:\Android_Projects\FirstTask\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="G:\Android_Projects\FirstTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_8dc9bbffd99590f45e10f1f440d5c95c204b29a8\classes.dex" />
+    </item>
+    <item
+        jar="G:\Android_Projects\FirstTask\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="G:\Android_Projects\FirstTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_e6db890b1f8f12eabda1d485d915bb1a14354c15\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ReaL\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="G:\Android_Projects\FirstTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_53181c93444218ae14f9f9772cd06807573b008c\classes.dex" />
+    </item>
+    <item
+        jar="G:\Android_Projects\FirstTask\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="27d01a5c7dc3e2649e6b7aa2aa4672d7784954bc">
+        <dex dex="G:\Android_Projects\FirstTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fee2881c6e9d12df19c9bb4dd2c09607e36c32c5\classes.dex" />
+    </item>
+    <item
+        jar="G:\Android_Projects\FirstTask\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b87660c3b3cec6e4a4e01bf92da1b95163efe554">
+        <dex dex="G:\Android_Projects\FirstTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2dcfe479753e82681d39ea9e26378c354799ae24\classes.dex" />
+    </item>
+    <item
+        jar="G:\Android_Projects\FirstTask\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="G:\Android_Projects\FirstTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_624cd7309fd6c6b2c554dd70c40372de210043d4\classes.dex" />
+    </item>
+    <item
+        jar="G:\Android_Projects\FirstTask\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="G:\Android_Projects\FirstTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_3a0b4bbf0667dee57eb2656bb6be5bcefb6968cc\classes.dex" />
+    </item>
+
+</items>

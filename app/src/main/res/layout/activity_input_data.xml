@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="75dp"
+    android:padding="16dp">
+
+
+    <EditText
+        android:id="@+id/product_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:hint="Enter product name" />
+
+    <EditText
+        android:id="@+id/product_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/product_name"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:inputType="number"
+        android:hint="Enter product price" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:id="@+id/button_save"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/product_price"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        android:gravity="center"
+        android:id="@+id/button_next"
+        android:layout_below="@+id/button_save"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp" />
+</RelativeLayout>
